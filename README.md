@@ -103,3 +103,6 @@ messages = [
 run_and_plot(messages)
 ```
 
+![HeatMap for github](https://github.com/shriyanksomvanshi/UniversalSentenceEncoder/assets/143463033/5eec506f-7ab2-481c-8eb9-b033d89d2dab)
+
+
